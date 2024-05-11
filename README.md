@@ -21,6 +21,9 @@
 작성 중인 코드를 AI가 이해하여 다음 코드를 자동 완성해서 먼저 제시해주는 아주 **똑똑한 AI** 입니다.  
 또한 ChatGPT에게 묻는 것처럼 코드에 관해서 자유롭게 궁금한 것들을 질문하면 답변을 받을 수 있습니다.
 
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/3834d6fa-ef59-4cc4-88f8-1077103137b8)
+
+
 
 
 
