@@ -279,9 +279,11 @@ Copilot에게 코드가 수정됐으면 좋겠다고 질문을 한 후, 답변�
 Copilot에게 코드를 고칠 수 있게 질문합니다.  
 
      
-![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/092b931e-ac2e-4a3b-903b-daf9b60ed15c)
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/092b931e-ac2e-4a3b-903b-daf9b60ed15c)  
 
-  코드를 실행해 잘 동작하는지 확인합니다.
+코드를 수정후, 
+
+코드를 실행해 잘 동작하는지 확인합니다.
 
   
 
