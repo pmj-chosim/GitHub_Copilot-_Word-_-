@@ -26,7 +26,9 @@
   
 <br>  <br>  
 
-## 사용 방법 :   
+## 사용 방법 :  
+
+1. 코딩을 할 수 있는 도구 VSCode를 실행합니다.
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/f8b3f203-dde0-4d19-87a8-428edc236996)
 
 
