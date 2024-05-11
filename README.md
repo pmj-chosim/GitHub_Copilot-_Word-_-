@@ -214,6 +214,9 @@ Csv 파일의 헤더랑 첫번째 행의 내용으로 표를 만들어 보여주
 
 csv 파일 일부를 복사해 구체적으로 Copilot에게 질문합니다.  
 
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/cafa9ffa-c343-4f12-88f1-d33eab1d862d)  
+
+수락합니다.
 
 
 
