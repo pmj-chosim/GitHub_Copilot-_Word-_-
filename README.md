@@ -93,8 +93,14 @@ GitHub Copilot이 생성한 코드를 **수락**합니다.
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/6110ede4-387f-4226-965e-b7efb2dedce0)  
 
 다운받은 파일에 마우스를 올린 후, 우클릭을 하면 "경로복사"가 뜹니다. 경로를 복사해  
+  
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/35040584-f523-47fd-b52b-0a74b99ca8f2)  
-해당 부분의 내용을 변경합니다.  
+  
+해당 부분의 내용을 변경합니다.   
 
+'''
+#예시 
+csv_file="C:\Users\hello\Desktop\info.csv"
+'''  
 
 
