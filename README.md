@@ -102,7 +102,7 @@ GitHub Copilot이 생성한 코드를 **수락**합니다.
 #예시 
 csv_file="C:\Users\hello\Desktop\info.csv"
 ```
-
+<br>  <br>  
 
 ### 4. Ctrl+I를 다시 누른 후, GitHub Copilot한테 word파일을 생성하게 합니다.  
 
