@@ -150,7 +150,7 @@ Tab 버튼을 클릭해 자동생성된 회색 코드를 수락합니다.
 
   <br>  <br>  
 
-**현재까지의 코드입니다 **
+**현재까지의 코드입니다**
 ```
 import pandas as pd
 from docx import Document
