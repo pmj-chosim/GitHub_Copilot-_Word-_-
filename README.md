@@ -69,4 +69,9 @@
 어떻게 해야할지 막막합니다. 하지만 저희에게는 **GitHub Copilot**이 있으니 함께 도전합시다.
 
 
+### 1. VSCode를 연 후, 파일>새파일을 클릭해 새파일을 만듭니다.   
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/c828bb56-b951-4bdb-975e-1d30e71aff5f)  
 
+   
+### 2. 
