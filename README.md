@@ -32,7 +32,7 @@
   
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/f8b3f203-dde0-4d19-87a8-428edc236996)
   
-2. 확장 메뉴에서 **GitHub Copilot**을 설치 버튼을 눌러 설합니다.
+2. 확장 메뉴에서 **GitHub Copilot**을 설치 버튼을 눌러 설치합니다.
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/1b8e09a5-a63a-4b20-94f3-4350b4b0c7c1)  
 
