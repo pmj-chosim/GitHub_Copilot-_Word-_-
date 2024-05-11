@@ -129,11 +129,17 @@ v에 커서가 위치하게 되는데,
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/fd447614-6e24-4630-b518-70258d2b879f)   
 
 그러면  ✨ 이모티콘이 뜨면서 회색글자들이 나타납니다. ```Tab```버튼을 누르면 회색글자가 입력됩니다. **Tab 버튼**을 누르십시오.  
+<br>
   
 그 다음, ```#무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.```를 적은 뒤 엔터를 누릅니다.  
 Tab 버튼을 클릭해 자동생성된 회색 코드를 수락합니다.  
   
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/062dc3ce-5127-494f-8b59-c3069dd9c837)
+
+
+```#고객님의 주문 정보는 다음과 같습니다.```를 입력 후, Tab 버튼을 클릭해 자동생성된 회색 코드를 수락합니다.  
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/0406c0c3-5e5d-4960-9489-3fa54010d524)  
   
 
 
