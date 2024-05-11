@@ -255,9 +255,18 @@ TypeError: 'int' object is not iterable
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/c437adfc-2d8a-4e82-9e59-65044ef38f89)  
 
-Copilot의 답변에 따라 코드를 수정합니다.  
+Copilot의 답변에 따라 코드를 수정합니다.   
+수정 후, 코드가 잘 작동하는지 확인합니다.    
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/69678d0d-a25e-4aff-8bc4-a40cd9b7b4e2)  
+
+모든 행에 대한 내용을 출력하고 있습니다.    
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/6bac444d-85b2-4d13-bd76-d1665417573b)
   
 
+```첫 번째 행이랑 헤더만 표에 출력했으면 좋겠다고 했잖아. 상품명 주문번호 송장번호 고객이름 우편번호 세부주소 주문일 0 나뭇잎 1 68640-4032-5555 김개미 44951 허리도 가늘군 만지면 부서지리 2024-04-12 이 첫 번째 행이랑 헤더의 상품명, 고객이름, 송장번호, 우편번호, 세부주소, 주문일에 대해서만 표에 나타나면 좋겠다고```  
+
+Copilot의 답변에 따라 코드를 수정합니다.  
 
 
 
