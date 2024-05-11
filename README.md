@@ -108,7 +108,7 @@ csv_file="C:\\Users\\hello\\Desktop\\info.csv"
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/56138813-f87a-45e2-a1fc-a0918c179e1d)  
   
-  
+> ```word 파일을 만들어줘``` 대신 ```word 파일에 hello를 출력하고 싶어```를 입력해도 무관합니다.    
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/83106af9-5585-464f-8f83-bf129298320a)  
   
 GitHub Copilot이 만든 코드를 수락하고, python 코드를 실행합니다.  
