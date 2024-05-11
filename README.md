@@ -27,6 +27,7 @@
 <br>  <br>  
 
 ## 사용 방법 :   
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/f8b3f203-dde0-4d19-87a8-428edc236996)
 
 
 
