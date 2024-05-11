@@ -145,6 +145,7 @@ Tab 버튼을 클릭해 자동생성된 회색 코드를 수락합니다.
 
 파이썬 코드를 실행해 잘 동작하는지 확인합니다.  
 코드를 실행 후, output.docx를 열어 확인합니다.  
+  
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/3095cbfe-e28f-4477-b374-5b3d76b19569)  
 
   <br>  <br>  
