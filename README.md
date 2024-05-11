@@ -52,10 +52,10 @@
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/fd3e5165-88e9-4d75-a3ac-d73878049540)
 
-**상품 주문 정보가 다음과 같이 제공됩니다.**
+**상품 주문 정보가 다음과 같이 제공됩니다.**  
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/8991c4d6-de66-4a62-91f8-c19779b7ac5e)
 
-
+  
 ## 퀘스트 : 주문자별 "주문정보종이 Word문서"를 빠르게 생성할 수 있도록 [ 자동화 코드 ]를 만드시오.
 
 <br>  <br>  
