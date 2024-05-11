@@ -342,5 +342,19 @@ doc.add_paragraph("hello")
 # 문서 저장
 doc.save(file_path)
 ```
+### 8. 다른 행들도 처리할 수 있도록 Copilot에게 지시합니다.  
+
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/26b3d015-2aa6-42c4-a98d-96f0e9a13c6b)  
+
+```지금 이 코드를실행하면 첫번째 csv의 행에 대해서만 실행되잖아? 첫번째 행에 대해서 한 페이지가 지금은 만들어지고 있잖아. 하지만 나는 각각의 행에 대해서 실행되면 좋겠어. 각 행마다 한 페이지씩 지금 코드가 실행되는 것처럼 만들어 지면 되겠어. 그렇다면 csv 파일의 행만큼 워드 문서 페이지가 만들어 져야 겠지?```
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/a40d3d15-f42d-478b-9b1f-cf7f78bfe670)  
+
+ 코드를 어디서 부터 수정해야 하는지 막막합니다.  
+ 그러므로 copilot에게 코드 전문을 다시 주라고 하겠습니다.  
+  
+ ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/bcb4041f-a1c0-485c-9bbc-12400aaad0ab)  
+  
+```코드 전문을 줘야지```
 
 
