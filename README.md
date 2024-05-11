@@ -223,11 +223,40 @@ csv 파일 일부를 복사해 구체적으로 Copilot에게 질문합니다.
 Tab, Enter, Tab, Enter를 반복해 세부주소와 주문일에 대해서도 처리할 수 있게 합니다.  
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/e78a7ae6-d98e-42b6-9430-78637f57941c)  
+
+코드를 실행합니다.  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/097ba022-a869-433f-83c1-3c46aa45e8e7)  
+
+  코드에 오류가 있습니다.
+<br>  <br>  
+
+### 7. 왼쪽 배너의 대화 모양 버튼을 클릭한 후, 대화창에서 GitHub Copilot에게 질문합니다.   
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/a472084d-5673-4f21-bca4-394b6d683045)  
+
+오류에 대한 내용을 복사해 질문합니다.    
+```Traceback (most recent call last):
+  File "c:\Users\parkm\OneDrive\바탕 화면\just.py", line 44, in <module>
+    row_cells[3].text = row['우편번호']
+    ^^^^^^^^^^^^^^^^^
+  File "c:\Users\parkm\AppData\Local\Programs\Python\Python311\Lib\site-packages\docx\table.py", line 284, in text
+    r.text = text
+    ^^^^^^
+  File "c:\Users\parkm\AppData\Local\Programs\Python\Python311\Lib\site-packages\docx\oxml\text\run.py", line 129, in text
+    _RunContentAppender.append_to_run_from_text(self, text)
+  File "c:\Users\parkm\AppData\Local\Programs\Python\Python311\Lib\site-packages\docx\oxml\text\run.py", line 248, in append_to_run_from_text
+    appender.add_text(text)
+  File "c:\Users\parkm\AppData\Local\Programs\Python\Python311\Lib\site-packages\docx\oxml\text\run.py", line 252, in add_text
+    for char in text:
+TypeError: 'int' object is not iterable
+```
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/699df696-1e33-470b-8b20-f79e48a1c034)
+
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/c437adfc-2d8a-4e82-9e59-65044ef38f89)  
+
+Copilot의 답변에 따라 코드를 수정합니다.  
   
 
 
 
 
-
-왼쪽 배너의 대화 모양 버튼을 클릭한 후, 대화창에서 GitHub Copilot에게 질문합니다.   
-![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/a472084d-5673-4f21-bca4-394b6d683045)
