@@ -83,9 +83,11 @@ GitHub Copilot한테  '''csv 파일을 불러와'''라고 시킵니다.
 
 GitHub Copilot이 생성한 코드를 **수락**합니다.
 
-### 3. 아래 링크에서 주문정보를 다운받습니다.
-![주문정보파일](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/blob/main/info.csv)
+### 3. 아래 링크에서 주문정보를 다운받습니다.  
+  
+[주문정보파일](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/blob/main/info.csv)
 
+    
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/ccf9cd53-817b-4dc3-b1ee-b5d0d2cc9f6a)
 
 
