@@ -98,9 +98,9 @@ GitHub Copilot이 생성한 코드를 **수락**합니다.
   
 해당 부분의 내용을 변경합니다.   
 
-'''
+```
 #예시 
 csv_file="C:\Users\hello\Desktop\info.csv"
-'''  
+```
 
 
