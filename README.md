@@ -285,5 +285,62 @@ Copilot에게 코드를 고칠 수 있게 질문합니다.
 
 코드를 실행해 잘 동작하는지 확인합니다.
 
+  <br> <br>  
   
+**현재까지의 코드 전문입니다.**
+```
+import pandas as pd
+from docx import Document
+
+# CSV 파일 경로
+file_path = "C:\\Users\\parkm\\Desktop\\info.csv"
+
+# CSV 파일 불러오기
+data = pd.read_csv(file_path)
+
+# 데이터 확인
+print(data.head())
+
+
+# Word 파일 경로
+file_path = "C:\\Users\\parkm\\Desktop\\hello.docx"
+
+# Word 문서 생성
+doc = Document()
+
+#안녕하세요 고객님을 한글에 적기
+doc.add_paragraph("안녕하세요 고객님")
+
+#무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.
+doc.add_paragraph("무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.")
+
+#고객님의 주문 정보는 다음과 같습니다.
+doc.add_paragraph("고객님의 주문 정보는 다음과 같습니다.")
+
+# 표 생성
+table = doc.add_table(rows=1, cols=len(data.columns))
+
+# 헤더 추가
+header_cells = table.rows[0].cells
+headers = ['상품명', '고객이름', '송장번호', '우편번호', '세부주소', '주문일']  # 원하는 순서로 헤더 정렬
+for i, header in enumerate(headers):
+    header_cells[i].text = header
+
+# 첫 번째 행의 데이터 추가
+row = data.iloc[0]  # 첫 번째 행 가져오기
+row_cells = table.add_row().cells
+row_cells[0].text = row['상품명']
+row_cells[1].text = row['고객이름']
+row_cells[2].text = row['송장번호']
+row_cells[3].text = str(row['우편번호'])
+row_cells[4].text = row['세부주소']
+row_cells[5].text = row['주문일']
+
+# 텍스트 추가
+doc.add_paragraph("hello")
+
+# 문서 저장
+doc.save(file_path)
+```
+
 
