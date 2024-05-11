@@ -118,4 +118,17 @@ GitHub Copilot이 만든 코드를 수락하고, python 코드를 실행합니�
 output.docx 워드 파일을 열어, 파이썬 코드가 잘 실행됐는지 확인합니다.  
 
 
+### doc~ 코드 뒤 V 부분에 마우스를 클릭합니다.   
+  
+v에 커서가 위치하게 되는데,   
+```#안녕하세요 고객님을 워드에 적기```를 적은뒤 엔터를 누릅니다.  
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/fd447614-6e24-4630-b518-70258d2b879f)
+
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/85e70b59-d16f-4cd5-9d55-7cdd74cfba95)
+
+
+### 6. 왼쪽 배너의 대화 모양 버튼을 클릭한 후, 대화창에서 GitHub Copilot에게 질문합니다.   
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/a472084d-5673-4f21-bca4-394b6d683045)
+
 
