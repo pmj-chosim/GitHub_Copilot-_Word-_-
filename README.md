@@ -107,7 +107,13 @@ csv_file="C:\Users\hello\Desktop\info.csv"
 ### 4. Ctrl+I를 다시 누른 후, GitHub Copilot한테 word파일을 생성하게 합니다.  
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/56138813-f87a-45e2-a1fc-a0918c179e1d)  
+  
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/83106af9-5585-464f-8f83-bf129298320a)  
+  
+GitHub Copilot이 만든 코드를 수락하고, python 코드를 실행해 봅니다.  
 
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/440f9aff-4e2b-4805-adf0-d7205b750a93)  
 
-
+output.docx 워드 파일을 열어, 파이썬 코드가 잘 실행됐는 것을 확인합니다.
 
