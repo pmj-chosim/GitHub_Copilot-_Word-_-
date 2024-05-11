@@ -77,7 +77,7 @@
 ### 2. Ctrl+I 버튼을 눌러 GitHub Copilot을 호출합니다.  
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/21181b97-64aa-454a-81c6-91897250c2e5)  
   <br>  
-GitHub Copilot한테  '''csv 파일을 불러와'''라고 시킵니다.  
+GitHub Copilot한테  ```csv 파일을 불러와```라고 시킵니다.  
   
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/fc7e5786-663f-4ed1-b447-1fbb7be3fd7f)
 
@@ -129,6 +129,12 @@ v에 커서가 위치하게 되는데,
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/fd447614-6e24-4630-b518-70258d2b879f)   
 
 그러면  ✨ 이모티콘이 뜨면서 회색글자들이 나타납니다. ```Tab```버튼을 누르면 회색글자가 입력됩니다. **Tab 버튼**을 누르십시오.  
+  
+그 다음, ```#무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.```를 적은 뒤 엔터를 누릅니다.  
+Tab 버튼을 클릭해 자동생성된 회색 코드를 수락합니다.  
+  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/062dc3ce-5127-494f-8b59-c3069dd9c837)
+  
 
 
 
