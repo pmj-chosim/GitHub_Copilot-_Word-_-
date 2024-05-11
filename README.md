@@ -150,9 +150,51 @@ Tab 버튼을 클릭해 자동생성된 회색 코드를 수락합니다.
 
   <br>  <br>  
 
+**현재까지의 코드입니다 **
+```
+import pandas as pd
+from docx import Document
 
-### 6. 왼쪽 배너의 대화 모양 버튼을 클릭한 후, 대화창에서 GitHub Copilot에게 질문합니다.   
-![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/a472084d-5673-4f21-bca4-394b6d683045)
+# CSV 파일 경로
+file_path = "C:\\Users\\parkm\\Desktop\\info.csv"
+
+# CSV 파일 불러오기
+data = pd.read_csv(file_path)
+
+# 데이터 확인
+print(data.head())
+
+
+# Word 파일 경로
+file_path = "C:\\Users\\parkm\\Desktop\\hello.docx"
+
+# Word 문서 생성
+doc = Document()
+
+#안녕하세요 고객님을 한글에 적기
+doc.add_paragraph("안녕하세요 고객님")
+
+#무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.
+doc.add_paragraph("무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.")
+
+#고객님의 주문 정보는 다음과 같습니다.
+doc.add_paragraph("고객님의 주문 정보는 다음과 같습니다.")
+
+
+# 텍스트 추가
+doc.add_paragraph("hello")
+
+# 문서 저장
+doc.save(file_path)
+```
+
+<br>  <br>  
+  
+
+
+### 6. csv 파일 일부를 복사해 구체적으로 Copilot에게 질문합니다.  
+
+**#텍스트추가**문구 위 부분에 마우스를 클릭해, 커서를 위치시킨 후 Ctrl+I를 눌러 Copilot에 질문합니다.
   
 ```
 상품명,주문번호,송장번호,고객이름,우편번호,세부주소,주문일
@@ -166,3 +208,9 @@ Csv 파일의 헤더랑 첫번째 행의 내용으로 표를 만들어 보여주
 ```
 
 csv 파일 일부를 복사해 구체적으로 Copilot에게 질문합니다.  
+
+
+
+
+왼쪽 배너의 대화 모양 버튼을 클릭한 후, 대화창에서 GitHub Copilot에게 질문합니다.   
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/a472084d-5673-4f21-bca4-394b6d683045)
