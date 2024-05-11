@@ -355,6 +355,67 @@ doc.save(file_path)
   
  ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/bcb4041f-a1c0-485c-9bbc-12400aaad0ab)  
   
-```코드 전문을 줘야지```
+```코드 전문을 줘야지```  
+
+Copilot이 제공한 코드로 기존 코드를 대체합니다.  
+
+<br> <br>
+  
+```
+import pandas as pd
+from docx import Document
+
+# CSV 파일 읽기
+data = pd.read_csv("C:\\Users\\parkm\\Desktop\\info.csv")
+print(data.head())
+
+# Word 파일 경로
+file_path = "C:\\Users\\parkm\\Desktop\\hello.docx"
+
+# Word 문서 생성
+doc = Document()
+
+# 헤더 정의
+headers = ['상품명', '고객이름', '송장번호', '우편번호', '세부주소', '주문일']
+
+for _, row in data.iterrows():
+    # 안녕하세요 고객님
+    doc.add_paragraph("안녕하세요 고객님")
+
+    # 무슨무슨 고객님 무슨무슨 제품을 구매해주셔서 감사합니다.
+    doc.add_paragraph(f"{row['고객이름']}님 {row['상품명']} 제품을 구매해주셔서 감사합니다.")
+
+    # 고객님의 주문 정보는 다음과 같습니다.
+    doc.add_paragraph("고객님의 주문 정보는 다음과 같습니다.")
+
+    # 표 생성
+    table = doc.add_table(rows=1, cols=len(headers))
+
+    # 헤더 추가
+    header_cells = table.rows[0].cells
+    for i, header in enumerate(headers):
+        header_cells[i].text = header
+
+    # 현재 행의 데이터 추가
+    row_cells = table.add_row().cells
+    row_cells[0].text = row['상품명']
+    row_cells[1].text = row['고객이름']
+    row_cells[2].text = row['송장번호']
+    row_cells[3].text = str(row['우편번호'])
+    row_cells[4].text = row['세부주소']
+    row_cells[5].text = row['주문일']
+
+    # 페이지 추가
+    doc.add_page_break()
+
+# 문서 저장
+doc.save(file_path)
+```  
+  
+다음 코드로 수정 후, 실행하니  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/b604be89-5895-4441-8475-90def77b1ae4)  
+
+원하는 결과가 나왔습니다.  
+
 
 
