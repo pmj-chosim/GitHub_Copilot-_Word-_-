@@ -250,7 +250,8 @@ Tab, Enter, Tab, Enter를 반복해 세부주소와 주문일에 대해서도 �
 TypeError: 'int' object is not iterable
 ```
   
-![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/699df696-1e33-470b-8b20-f79e48a1c034)
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/6264c6ab-4f9d-4bf9-beee-c6f8929e4679)
+
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/c437adfc-2d8a-4e82-9e59-65044ef38f89)  
 
