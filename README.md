@@ -216,7 +216,16 @@ csv 파일 일부를 복사해 구체적으로 Copilot에게 질문합니다.
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/cafa9ffa-c343-4f12-88f1-d33eab1d862d)  
 
-수락합니다.
+수락합니다.  
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/8b423901-340a-4c2a-b757-460bd0478d54)  
+  
+```#세부주소, 주문일도 추가```를 입력한 후,
+Tab, Enter, Tab, Enter를 반복해 세부주소와 주문일에 대해서도 처리할 수 있게 합니다.  
+
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/e78a7ae6-d98e-42b6-9430-78637f57941c)  
+  
+
+
 
 
 
