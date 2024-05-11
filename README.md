@@ -28,14 +28,14 @@
 
 ## 사용 방법 :  
 
-1.코딩을 할 수 있는 도구 VSCode를 실행합니다.
+1. 코딩을 할 수 있는 도구 VSCode를 실행합니다.
   
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/f8b3f203-dde0-4d19-87a8-428edc236996)
   
-1.확장 메뉴에서 GitHub Copilot을 설치합니다.
+2. 확장 메뉴에서 GitHub Copilot을 설치합니다.
 
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/1b8e09a5-a63a-4b20-94f3-4350b4b0c7c1)  
 
-1.
+3.  
 
 
