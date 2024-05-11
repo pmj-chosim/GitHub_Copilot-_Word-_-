@@ -104,3 +104,10 @@ csv_file="C:\Users\hello\Desktop\info.csv"
 ```
 
 
+### 4. Ctrl+I를 다시 누른 후, GitHub Copilot한테 word파일을 생성하게 합니다.  
+
+![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/56138813-f87a-45e2-a1fc-a0918c179e1d)  
+
+
+
+
