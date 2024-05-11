@@ -78,4 +78,8 @@
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/21181b97-64aa-454a-81c6-91897250c2e5)  
   <br>  
 GitHub Copilot한테  '''csv 파일을 불러와'''라고 시킵니다.  
+  
 ![image](https://github.com/pmj-chosim/GitHub_Copilot-_Word-_-/assets/114579651/fc7e5786-663f-4ed1-b447-1fbb7be3fd7f)
+
+GitHub Copilot이 생성한 코드를 **수락**합니다.
+
